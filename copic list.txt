@@ -1,0 +1,618 @@
+BV0000 Pale Thistle
+#e8e5f3
+BV000 Iridescent Mauve
+#e5deef
+BV00 Mauve Shadow
+#e0dbed
+BV01 Viola
+#c5c9e5
+BV02 Prune
+#aab8db
+BV04 Blue Berry
+#7d96cd
+BV08 Blue Violet
+#9e7eb9
+BV11 Soft Violet
+#d3d1e9
+BV13 Hydrangea Blue
+#8490c8
+BV17 Deep Reddish Blue
+#6e84bb
+BV20 Dull Lavender
+#cfdaf0
+BV23 Grayish Lavender
+#b0bfdb
+BV25 Grayish Violet
+#8082a6
+BV29 Slate
+#384457
+BV31 Pale Lavender
+#dbe0f2
+BV34 Bluebell
+#9fa7be
+V0000 Rose Quartz
+#e8e3f1
+V000 Pale Heath
+#e8e3f1
+V01 Heath
+#e4c0d8
+V04 Lilac
+#e4aacd
+V05 Azalea
+#e2a5cb
+V06 Lavender
+#ce95c3
+V09 Violet
+#8754a2
+V12 Pale Lilac
+#ebd5e8
+V15 Mallow
+#d2a7cd
+V17 Amethyst
+#a091c6
+V20 Wisteria
+#dddcea
+V22 Ash Lavender
+#b2afcf
+V25 Pale Blackberry
+#857fad
+V28 Eggplant
+#6b658c
+V91 Pale Grape
+#e7c4d0
+V93 Early Grape
+#e3c0dc
+V95 Light Grape
+#b77ca6
+V99 Aubergine
+#534258
+RV0000 Evening Primrose
+#f0e8f3
+RV000 Pale Purple
+#f2e1ee
+RV00 Water Lily
+#efd8e9
+RV02 Sugared Almond Pink
+#fad5e5
+RV04 Shock Pink
+#f6a3be
+RV06 Cerise
+#f386ae
+RV09 Fuchsia
+#df71ac
+RV10 Pale Pink
+#fdebf3
+RV11 Pink
+#fbd6db
+RV13 Tender Pink
+#fac9d7
+RV14 Begonia Pink
+#f494b5
+RV17 Deep Magenta
+#db7eb3
+RV19 Red Violet
+#d269a9
+RV21 Light Pink
+#fde8e7
+RV23 Pure Pink
+#f8bac7
+RV25 Dog Rose Flower
+#f494be
+RV29 Crimson
+#ef477f
+RV32 Shadow Pink
+#fcd3ce
+RV34 Dark Pink
+#f8afae
+RV42 Salmon Pink
+#f9bbb5
+RV52 Cotton Candy
+#f9c9de
+RV55 Hollyhock
+#e8a6ca
+RV63 Begonia
+#cf9cab
+RV66 Raspberry
+#b86a84
+RV69 Peony
+#8b576f
+RV91 Grayish Cherry
+#e2d0e1
+RV93 Smoky Purple
+#e6b5ca
+RV95 Baby Blossoms
+#b583a0
+RV99 Argyle Purple
+#594757
+R0000 Pink Beryl
+#fef1eb
+R000 Cherry White
+#feede5
+R00 Pinkish White
+#fee9df
+R01 Pinkish Vanilla
+#fde1d9
+R02 Rose Salmon
+#fcd3c6
+R05 Salmon Red
+#f6917c
+R08 Vermilion
+#f26655
+R11 Pale Cherry Pink
+#fde1d4
+R12 Light Tea Rose
+#fcd3c1
+R14 Light Rouge
+#f69b92
+R17 Lipstick Orange
+#f5846b
+R20 Blush
+#fcd7d0
+R21 Sardonyx
+#fac1b7
+R22 Light Prawn
+#f9b7b2
+R24 Prawn
+#f3757a
+R27 Cadmium Red
+#f05161
+R29 Lipstick Red
+#ed174c
+R30 Pale Yellowish Pink
+#fde3de
+R32 Peach
+#fac1ba
+R35 Coral
+#f27183
+R37 Carmine
+#e66c73
+R39 Garnet
+#c8497a
+R43 Bougainvillaea
+#ec838e
+R46 Strong Red
+#df4d69
+R56 Currant
+#d07c95
+R59 Cardinal
+#b65070
+R81 Rose Pink
+#f0c7d2
+R83 Rose Mist
+#ef9bb7
+R85 Rose Red
+#d16892
+R89 Dark Red
+#7c2b42
+YR0000 Pale Chiffon
+#fff1e4
+YR000 Silk
+#ffead7
+YR00 Powder Pink 
+#fdd6be
+YR01 Peach Puff
+#fddac1
+YR02 Light Orange
+#fedcc6
+YR04 Chrome Orange
+#fec368
+YR07 Cadmium Orange
+#f3703a
+YR09 Chinese Orange
+#f05622
+YR12 Loquat
+#ffe1a5
+YR14 Caramel
+#ffc94e
+YR15 Pumpkin Yellow
+#fbb684
+YR16 Apricot
+#fdb827
+YR18 Sanguine
+#f36c3b
+YR20 Yellowish Shade
+#ffe1c0
+YR21 Cream
+#f3dcb1
+YR23 Yellow Ochre
+#ebce8a
+YR24 Pale Sepia
+#f0cf63
+YR27 Tuscan Orange
+#d56637
+YR30 Macadamia nut
+#fff0d9
+YR31 Light Reddish Yellow
+#ffdea7
+YR61 Spring Orange
+#fddac3
+YR65 Atoll
+#faad60
+YR68 Orange
+#f36f21
+YR82 Mellow Peach
+#fdc68d
+Y0000 Yellow Fluorite
+#f1f6de
+Y000 Pale Lemon
+#fffde9
+Y00 Barium Yellow
+#fffcdf
+Y02 Canary Yellow
+#f8f297
+Y04 Acacia
+#eee355
+Y06 Yellow
+#fff56d
+Y08 Acid Yellow
+#fff200
+Y11 Pale Yellow
+#fffbcc
+Y13 Lemon Yellow
+#fcf6ae
+Y15 Cadmium Yellow
+#ffe76e
+Y17 Golden Yellow
+#ffe355
+Y18 Lightning Yellow
+#ffec56
+Y19 Naples Yellow
+#ffe83f
+Y21 Buttercup Yellow
+#ffecc0
+Y23 Yellowish Beige
+#fce3b5
+Y26 Mustard
+#f0d967
+Y28 Lionet Gold
+#c9a86a
+Y32 Cashmere
+#f7ddc1
+Y35 Maize
+#ffd779
+Y38 Honey
+#ffd274
+YG0000 Lily White
+#f1f6de
+YG00 Mimosa Yellow
+#e6e49d
+YG01 Green Bice
+#e3ecb1
+YG03 Yellow Green
+#e0eaaa
+YG05 Salad
+#d7e592
+YG06 Yellowish Green
+#c5de92
+YG07 Acid Green
+#a5cf4d
+YG09 Lettuce Green
+#81c566
+YG11 Mignonette
+#e3efcf
+YG13 Chartreuse
+#d3e59e
+YG17 Grass Green
+#72c057
+YG21 Anise
+#f7f5bd
+YG23 New Leaf
+#e7eb91
+YG25 Celadon Green
+#cfe17d
+YG41 Pale Cobalt Green
+#d6ebd4
+YG45 Cobalt Green
+#b5dcb7
+YG61 Pale Moss
+#d5e7d5
+YG63 Pea Green
+#a0caa1
+YG67 Moss
+#80be8a
+YG91 Putty
+#dad6af
+YG93 Grayish Yellow
+#d2d29d
+YG95 Pale Olive
+#cac65e
+YG97 Spanish Olive
+#928f00
+YG99 Marine Green
+#4e6a14
+G0000 Crystal Opal
+#f0f8f1
+G000 Pale Green 
+#e9f4eb
+G00 Jade Green
+#e3f2eb
+G02 Spectrum Green
+#cee8d4
+G03 Meadow Green
+#b5da9c
+G05 Emerald Green
+#6ac17b
+G07 Nile Green
+#7cc578
+G09 Veronese Green
+#7cc466
+G12 Sea Green
+#d2e8c5
+G14 Apple Green
+#97cf90
+G16 Malachite
+#60c198
+G17 Forest Green
+#00b37f
+G19 Bright Parrot Green
+#36b98a
+G20 Wax White
+#ecf4da
+G21 Lime Green
+#c5e4ce
+G24 Willow
+#c2e0b4
+G28 Ocean Green
+#009362
+G29 Pine Tree Green
+#207b5d
+G40 Dim Green
+#e4f1de
+G43 Pistachio
+#d7e7a8
+G46 Mistletoe
+#589d74
+G82 Spring Dim Green
+#ccdab9
+G85 Verdigris
+#9dc3aa
+G94 Grayish Olive
+#97a585
+G99 Olive
+#5e7e39
+BG0000 Snow Green
+#edf7f1
+BG000 Pale Aqua
+#e6f4ed
+BG01 Aqua Blue
+#c7e4f8
+BG02 New Blue
+#c7e4f8
+BG05 Holiday Blue
+#83d2e3
+BG07 Petroleum Blue
+#06b5cd
+BG09 Blue Green
+#00afc7
+BG10 Cool Shadow
+#def1ee
+BG11 Moon White
+#ceebef
+BG13 Mint Green
+#c4e7e9
+BG15 Aqua
+#a1d9d2
+BG18 Teal Blue
+#42beaf
+BG23 Coral Sea
+#bde3dc
+BG32 Aqua Mint
+#bce2d6
+BG34 Horizon Green
+#a3dad7
+BG45 Nile Blue
+#afdfe0
+BG49 Duck Blue
+#00b6b9
+BG53 Ice Mint 
+#adced1
+BG57 Jasper
+#67bdbd
+BG70 Ocean Mist
+#dbe9eb
+BG72 Ice Ocean
+#76b8bc
+BG75 Abyss Green
+#59918f
+BG78 Bronze
+#496f6a
+BG90 Gray Sky
+#e4e8e2
+BG93 Green Gray
+#bac0b6
+BG96 Bush
+#82a190
+BG99 Flagstone Blue
+#6e9c88
+B0000 Pale Celestine
+#eff9fe
+B000 Pale Porcelain Blue
+#e5f4f3
+B00 Frost Blue
+#ddf1f2
+B01 Mint Blue
+#d5eef0
+B02 Robin's Egg Blue
+#b3e2ee
+B04 Tahitian Blue
+#73cee5
+B05 Process Blue
+#42c5e5
+B06 Peacock Blue
+#00b2e5
+B12 Ice Blue
+#c8e4ec
+B14 Light Blue
+#71cfeb
+B16 Cyanine Blue
+#00bce9
+B18 Lapis Lazuli
+#118acb
+B21 Baby Blue
+#dcecf9
+B23 Phthalo Blue
+#93c2e9
+B24 Sky
+#8acef1
+B26 Cobalt Blue
+#66b2e3
+B28 Royal Blue
+#206cb6
+B29 Ultramarine
+#0076c0
+B32 Pale Blue
+#e2edf3
+B34 Manganese Blue
+#81c3eb
+B37 Antwerp Blue
+#0f6fa3
+B39 Prussian Blue
+#2d63a9
+B41 Powder Blue
+#e1eef9
+B45 Smoky Blue
+#75c0eb
+B52 Soft Greenish Blue
+#adccdc
+B60 Pale Blue Gray
+#d9e0f1
+B63 Light Hydrangea
+#a7bae0
+B66 Clematis
+#6888c5
+B69 Stratospheric Blue
+#1d65ae
+B79 Iris
+#3c479d
+B91 Pale Grayish Blue
+#d5e1e8
+B93 Light Crockery Blue
+#96c2db
+B95 Light Grayish Cobalt
+#63c3cf
+B97 Night Blue
+#477a9a
+B99 Agate
+#11537e
+E0000 Floral White
+#fff8f1
+E000 Pale Fruit Pink
+#fff3ea
+E00 Cotton Pearl
+#fff1e7
+E01 Pink Flamingo
+#feede1
+E02 Fruit Pink
+#feebdf
+E04 Lipstick Natural
+#e1bac2
+E07 Light Mahogany
+#cb816a
+E08 Brown
+#c96552
+E09 Burnt Sienna
+#d6684f
+E11 Barley Beige
+#fee9d6
+E13 Light Suntan
+#e4c3ae
+E15 Dark Suntan
+#fbbb8c
+E17 Reddish Brass
+#b76057
+E18 Copper
+#87524c
+E19 Redwood
+#c45339
+E21 Soft Sun
+#fee2c9
+E23 Hazelnut
+#eac8b0
+E25 Caribe Cocoa
+#d3a382
+E27 Milk Chocolate
+#987563
+E29 Burnt Umber
+#884637
+E30 Bisque
+#f7ecd3
+E31 Brick Beige
+#f2e2cb
+E33 Sand
+#f1cfaf
+E34 Toast
+#efc9a5
+E35 Chamois
+#e6c4a3
+E37 Sepia
+#cb915a
+E39 Leather
+#c7743e
+E40 Brick White
+#f3e7da
+E41 Pearl White
+#ffefe1
+E42 Sand White
+#f2e6d6
+E43 Dull Ivory
+#e9dbbd
+E44 Clay
+#c5b9a8
+E47 Dark Brown
+#896e59
+E49 Dark Bark
+#634c3b
+E50 Egg Shell
+#f1e9ec
+E51 Milky White
+#ffead5
+E53 Raw Silk
+#f3e3c0
+E55 Light Camel
+#f0dbb7
+E57 Light Walnut
+#b38559
+E59 Walnut
+#b38559
+E70 Ash Rose
+#efe8e4
+E71 Champagne
+#e2d7d3
+E74 Cocoa Brown
+#a1857c
+E77 Maroon
+#7e5f4d
+E79 Cashew
+#4b2d23
+E81 Ivory
+#eee4c0
+E84 Khaki
+#ac9e7f
+E87 Fig
+#6f614e
+E89 Pecan
+#5a4938
+E93 Tea Rose
+#fdd2b9
+E95 Tea Orange
+#fcbc7e
+E97 Deep Orange
+#ec9b5e
+E99 Baked Clay
+#b46134
+FRV1 Fluorescent Pink
+#f5a4c7
+FYR1 Fluorescent Orange
+#fdcc99
+FY1 Fluorescent Yellow Orange
+#fff797
+FYG1 Fluorescent Yellow
+#d0dda1
+FV2 Fluorescent Dull Violet
+#8074b6
+FYG2 Fluorescent Dull Yellow Green
+#9ecc41
+FBG2 Fluorescent Dull Blue Green
+#64cbe7
+FB2 Fluorescent Dull Blue
+#008fd0
